@@ -17,7 +17,7 @@
 
 <br>
 
-### 👉 [**Open the Live Dashboard**](YOUR_DASHBOARD_LINK) 👈
+### 👉 [**Open the Live Dashboard**](https://ola-ride-analytics-power-bi.vercel.app) 👈
 
 <br>
 
